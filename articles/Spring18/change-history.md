@@ -18,18 +18,23 @@ audience: Admin
 
 This topic is updated when features are added, or when a feature's release date changes. To find out when there are updates to these release notes, follow us on Twitter	[@MSFTDynamics365](https://twitter.com/MSFTDynamics365).
 
-## Changes in Spring ’18 Release Notes version 18.1.2, published May 1, 2018
+## Intro
 
-### Intro                          
+[Availability](availability.md) link added (May 1)
 
-Added section: [Availability](availability.md) to link to the availability guide. 
+## Sales
 
-### Sales
-- Updated section: Built on the Unified Interface framework lists additional capabilities and solutions 
-- Added feature: [Predictive lead scoring (Public Preview)](dynamics365-sales/overview.md) 
+Built on the Unified Interface framework lists additional capabilities and solutions
+- Content revised, May 1
+- Added, April 1
 
-### Field Service
-Universal Resource Scheduling added features: 
+May 1 added: 
+[Predictive lead scoring (Public Preview)](dynamics365-sales/overview.md) 
+
+
+## Field Service
+
+May 1: Universal Resource Scheduling features added:  
 - [Display more on the schedule board by adjusting the scale](dynamics365-field-service/overview.md)                                  
 - [Display up to 14 days on the hourly schedule board](dynamics365-field-service/overview.md)
 - [Change booking statuses from daily, weekly, and monthly schedule boards](dynamics365-field-service/overview.md)
@@ -41,24 +46,60 @@ Universal Resource Scheduling added features:
 - [Keep the context when searching for availability and substituting a resource](dynamics365-field-service/overview.md)
 - [Schedule board extensibility enhancements](dynamics365-field-service/overview.md)
 
-### Finance and Operations
 
-Added features:
+## Talent
+
+Release dates revised: 
+
+May 1 added features: 
+- [Absence management](dynamics365-talent/absence-management.md)
+	- Time entry on behalf of someone else
+
+- Configurable proration options
+
+- [Payroll Integration](dynamics365-talent/payroll-integration-payroll-data-package.md)
+	- Ceridian payroll integration is now available (Public Preview in May, not Generally Available) 
+	- Ceridian payroll integration is now available in the UK (Public Preview in June, not May) 
+	- Assignee placeholders (Public Preview)
+
+## Finance and Operations
+
+May 1 features added: 
 - [Globalization – United Arab Emirates localization for Fall 2017 release (version 7.3 update)](dynamics365-finance-operations/globalization-united-arab-emirates-localization-fall-2017-release-version-7-3-update.md)
 - [Create actuals in Project Service Automation and synchronize them to the Finance and Operations integration journal](dynamics365-finance-operations/integration-dynamics365-project-service-automation.md)
 - [Extensible project work breakdown structure](dynamics365-finance-operations/extensible-project-work-breakdown-structure.md)
 - [On-premises availability of Retail head-office capabilities](dynamics365-finance-operations/on-premises-deployment-updates.md)
 
-### Talent
+## PowerApps
 
-Added features: 
-- [Absence management](dynamics365-talent/absence-management.md)
-	- Time entry on behalf of someone else
-	- Configurable proration options
+## Power BI Desktop
 
-- [Payroll Integration](dynamics365-talent/payroll-integration-payroll-data-package.md)
-	- Ceridian payroll integration is now available in the UK
-	- Assignee placeholders (Public Preview)
+## Power BI Service
+
+## Microsoft Flow
+
+## Data Integration
+
+[Connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md)
+- Release date modified from May to June (May 10th)
+- Added May 1, 2018
+
+### Microsoft Stream
+
+Public anonymous playback feature 
+- Removed from the summary table (May 10th) 
+- Added April 1
+
+
+
+## Changes in Spring ’18 Release Notes version 18.1.2, published May 1, 2018
+
+### Intro                          
+
+
+
+
+
 
 ### PowerApps
 
