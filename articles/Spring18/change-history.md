@@ -28,8 +28,8 @@ This topic is updated when features are added, or when a feature's release date 
 
 Built on the Unified Interface framework lists additional capabilities and solutions
 
-### Features added, May 1 
-[Predictive lead scoring (Public Preview)](dynamics365-sales/overview.md) 
+### Features added
+May 1: [Predictive lead scoring (Public Preview)](dynamics365-sales/overview.md) 
 
 ### Features added, April 1
 - [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details
@@ -39,7 +39,9 @@ Built on the Unified Interface framework lists additional capabilities and solut
 
 ## Field Service
 
-### Features added, May 1
+### Features added
+
+May 1, the following features were added: 
 
 Universal Resource Scheduling features:  
 - [Display more on the schedule board by adjusting the scale](dynamics365-field-service/overview.md)                                  
@@ -53,8 +55,9 @@ Universal Resource Scheduling features:
 - [Keep the context when searching for availability and substituting a resource](dynamics365-field-service/overview.md)
 - [Schedule board extensibility enhancements](dynamics365-field-service/overview.md)
 
-### Features removed, April 2
-- Removed FBX from list of supported file formats for 3D models
+### Features removed
+
+- FBX from list of supported file formats for 3D models. Change, April 2
 
 ## Talent
 
