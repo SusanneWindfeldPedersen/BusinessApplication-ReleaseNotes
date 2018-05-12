@@ -32,6 +32,22 @@ This topic is updated when features are added, or when a feature's release date 
 |---------|------------|
 | Built on the Unified Interface framework lists additional capabilities and solutions | 1-May-18   |
 
+
+<table width=100%>
+<colgroup>
+<col width="75%" />
+<col width="25%" />
+</colgroup>
+  <tr>
+    <th>Feature</th>
+    <th>Date added</th>
+  </tr>
+  <tr>
+    <td>Built on the Unified Interface framework lists additional capabilities and solutions</td>
+    <td>1-May-18</td>
+  </tr>
+</table>
+
 ### Features added
 
 | Feature | Date added |
@@ -44,8 +60,22 @@ This topic is updated when features are added, or when a feature's release date 
 | Feature | Date removed |
 |---------|------------|
 | LinkedIn profile pictures for contact records | 1-May-18   |
-| Thing 2 | 1-May-18   |
 
+
+<table width=100%>
+<colgroup>
+<col width="75%" />
+<col width="25%" />
+</colgroup>
+  <tr>
+    <th>Feature</th>
+    <th>Date added</th>
+  </tr>
+  <tr>
+    <td>LinkedIn profile pictures for contact records</td>
+    <td>1-May-18</td>
+  </tr>
+</table>
 
 ## Field Service
 
@@ -71,6 +101,21 @@ This topic is updated when features are added, or when a feature's release date 
 | Feature | Date removed |
 |---------|------------|
 | FBX from list of supported file formats for 3D models | April 2   |
+
+<table width=100%>
+<colgroup>
+<col width="75%" />
+<col width="25%" />
+</colgroup>
+  <tr>
+    <th>Feature</th>
+    <th>Date removed</th>
+  </tr>
+  <tr>
+    <td>FBX from list of supported file formats for 3D models</td>
+    <td>April 2, 2018</td>
+  </tr>
+</table>
 
 
 ## Talent
