@@ -7,19 +7,20 @@ manager: AnnBe
 ms.date: 05/01/2018
 ms.assetid: a08a8762-85b7-41bc-83e0-4380a38cf685
 ms.topic: article
-ms.prod: 
+ms.prod:
 ms.service: business-applications
-ms.technology: 
+ms.technology:
 ms.author: margoc
 audience: Admin
 
 ---
-#  Change history
+# Change history
 
-This topic is updated when features are added, or when a feature's release date changes. To find out when there are updates to these release notes, follow us on Twitter	[@MSFTDynamics365](https://twitter.com/MSFTDynamics365).
+This topic is updated when features are added, or when a feature's release date changes. To find out when there are updates to these release notes, follow us on Twitter [@MSFTDynamics365](https://twitter.com/MSFTDynamics365).
 
 ## Intro
 
+> [!div class="mx-tableFixed"]
 | Feature | Date added |
 |---------|------------|
 | [Availability](availability.md) link added  | May 1, 2018   |
@@ -28,59 +29,31 @@ This topic is updated when features are added, or when a feature's release date 
 
 ### Updated features
 
+> [!div class="mx-tableFixed"]
 | Feature | Date updated |
 |---------|------------|
 | Built on the Unified Interface framework lists additional capabilities and solutions | 1-May-18   |
 
-
-<table width=100%>
-<colgroup>
-<col width="75%" />
-<col width="25%" />
-</colgroup>
-  <tr>
-    <th>Feature</th>
-    <th>Date added</th>
-  </tr>
-  <tr>
-    <td>Built on the Unified Interface framework lists additional capabilities and solutions</td>
-    <td>1-May-18</td>
-  </tr>
-</table>
-
 ### Features added
 
+> [!div class="mx-tableFixed"]
 | Feature | Date added |
 |---------|------------|
 | [Predictive lead scoring (Public Preview)](dynamics365-sales/overview.md)  | 1-May-18   |
 | [New sales professional license](dynamics365-sales/overview.md) with link to comparison page for details | 1-April-18   |
 
-
 ### Features removed
+
+> [!div class="mx-tableFixed"]
 | Feature | Date removed |
 |---------|------------|
 | LinkedIn profile pictures for contact records | 1-May-18   |
-
-
-<table width=100%>
-<colgroup>
-<col width="75%" />
-<col width="25%" />
-</colgroup>
-  <tr>
-    <th>Feature</th>
-    <th>Date added</th>
-  </tr>
-  <tr>
-    <td>LinkedIn profile pictures for contact records</td>
-    <td>1-May-18</td>
-  </tr>
-</table>
 
 ## Field Service
 
 ### Features added
 
+> [!div class="mx-tableFixed"]
 | Feature                                                                                                               | Date added |
 |-----------------------------------------------------------------------------------------------------------------------|------------|
 | Universal Resource Scheduling features:                                                                               | 1-May-18   |
@@ -95,33 +68,18 @@ This topic is updated when features are added, or when a feature's release date 
 | [Keep the context when searching for availability and substituting a resource](dynamics365-field-service/overview.md) | 1-May-18   |
 | [Schedule board extensibility enhancements](dynamics365-field-service/overview.md)                                    | 1-May-18   |
 
-
 ### Features removed
 
+> [!div class="mx-tableFixed"]
 | Feature | Date removed |
 |---------|------------|
 | FBX from list of supported file formats for 3D models | April 2   |
-
-<table width=100%>
-<colgroup>
-<col width="75%" />
-<col width="25%" />
-</colgroup>
-  <tr>
-    <th>Feature</th>
-    <th>Date removed</th>
-  </tr>
-  <tr>
-    <td>FBX from list of supported file formats for 3D models</td>
-    <td>April 2, 2018</td>
-  </tr>
-</table>
-
 
 ## Talent
 
 ### Release date changes
 
+> [!div class="mx-tableFixed"]
 | Feature                                                 | Change                                         | Change date  |
 |---------------------------------------------------------|------------------------------------------------|--------------|
 | Ceridian payroll integration is now available           | Public Preview in May, not Generally Available | May 10, 2018 |
@@ -129,14 +87,15 @@ This topic is updated when features are added, or when a feature's release date 
 
 ### Features updated
 
+> [!div class="mx-tableFixed"]
 | Feature | Date updated |
 |---------|------------|
 | [Absence management](dynamics365-talent/absence-management.md). Added time entry on behalf of someone else. | 1-May-18   |
 | [Payroll Integration](dynamics365-talent/payroll-integration-payroll-data-package.md). Added assignee placeholders (Public Preview)| 1-May-18   |
 
-
 ## Finance and Operations
 
+> [!div class="mx-tableFixed"]
 | Feature                                                                                                                                                                                                                | Dated added   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------|
 | [Globalization – United Arab Emirates localization for Fall 2017 release (version 7.3 update)](dynamics365-finance-operations/globalization-united-arab-emirates-localization-fall-2017-release-version-7-3-update.md) | May 1, 2018   |
@@ -149,24 +108,26 @@ This topic is updated when features are added, or when a feature's release date 
 
 ### Features added
 
+> [!div class="mx-tableFixed"]
 | Feature | Date added |
 |---------|------------|
 | [Canvas apps support storing up to 20 MB of data locally on Android and iOS](powerapps/overview.md) | May 1, 2018   |
-
 
 ## Power BI Desktop
 
 ### Features removed
 
+> [!div class="mx-tableFixed"]
 | Feature                                                                                                       | Dated removed |
 |---------------------------------------------------------------------------------------------------------------|---------------|
 | Incremental Refresh Policies removed from April '18 General Availability                                      | May 1, 2018   |
 | Matrix expand or collapse section removed from June '18 General Availability                                  | May 1, 2018   |
 | Improve the results of Quick Insights with custom analysis section removed from June '18 General Availability | May 1, 2018   |
-| Performance inspector for reports section removed from June '18 General Availability                          | May 1, 2018   |		
+| Performance inspector for reports section removed from June '18 General Availability                          | May 1, 2018   |
 
 ### Features added
 
+> [!div class="mx-tableFixed"]
 | Feature | Date added |
 |---------|------------|
 | Drill-through on measures, [conditional formatting](power-bi/overview.md), May 18 General availability  | May 1, 2018   |
@@ -179,6 +140,7 @@ This topic is updated when features are added, or when a feature's release date 
 
 ### Features added
 
+> [!div class="mx-tableFixed"]
 | Feature                                                                            | Dated added   |
 |------------------------------------------------------------------------------------|---------------|
 | [Create a business process flow](microsoft-flow/overview.md)                       | May 1, 2018   |
@@ -200,12 +162,10 @@ This topic is updated when features are added, or when a feature's release date 
 
 ### Release date changes
 
-
+> [!div class="mx-tableFixed"]
 | Feature                                                 | Change                                         | Change date  |
 |---------------------------------------------------------|------------------------------------------------|--------------|
 | Connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md           | Release date modified from May to June | May 1, 2018 |
-
-
 
 ### Features added
 
@@ -213,26 +173,29 @@ This topic is updated when features are added, or when a feature's release date 
 |---------|------------|
 | [Connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md)  | May 1, 2018   |
 
-
 ### Microsoft Stream
 
 ### Features removed
 
+> [!div class="mx-tableFixed"]
 | Feature                                                                                                       | Dated removed |
 |---------------------------------------------------------------------------------------------------------------|---------------|
 | Public anonymous playback feature                                      | May 1, 2018   |
 
-
-## Power BI Service	
+## Power BI Service
 
 ### Release date changes
+
+> [!div class="mx-tableFixed"]
 | Feature                                                 | Change                                         | Change date  |
 |---------------------------------------------------------|------------------------------------------------|--------------|
 | [Incremental data refresh](power-bi/overview.md)         | Public Preview in May, not Generally Available | May 1, 2018 |
-| [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) | Moveed to Public Preview sometime between July and September          | May 1, 2018 |
+| [Common Data Service for Analytics in Power BI](common-data-service-analytics/index.md) | Moved to Public Preview sometime between July and September          | May 1, 2018 |
 | [Power BI Insights Apps](power-bi/insights-apps/insights-apps.md) | Moved to Public Preview sometime between July and September          | May 1, 2018 |
 
 ### Features added
+
+> [!div class="mx-tableFixed"]
 | Feature                               | Date added |
 |---------------------------------------|---------------|
 | Incremental data Refresh              | April 1, 2018   |
@@ -242,11 +205,10 @@ This topic is updated when features are added, or when a feature's release date 
 | Workspaces with Azure AD groups       | April 1, 2018   |
 | Export to PDF                         | April 1, 2018   |
 
-				                                
 ### Features removed
+
+> [!div class="mx-tableFixed"]
 | Feature                               | Date removed |
 |---------------------------------------|---------------|
 | Slideshow mode                        | April 1, 2018 |
 | Report snapshots for Power BI Premium | April 1, 2018 |
-			
-				
