@@ -169,6 +169,7 @@ This topic is updated when features are added, or when a feature's release date 
 
 ### Features added
 
+> [!div class="mx-tableFixed"]
 > | Feature | Date added |
 > |---------|------------|
 > | [Connectors, gateways, templates, and Power Query smart data preparation](data-integration/overview.md)  | May 1, 2018   |
